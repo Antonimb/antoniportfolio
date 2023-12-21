@@ -224,3 +224,32 @@ iframe {
 
 
 }
+
+.card {
+
+    position: fixed;
+    top: 100px;
+    left: 50px;
+    
+    
+
+
+}
+
+
+
+.card-body {
+    background-color: rgb(21, 20, 20);
+    color: white;
+
+
+}
+
+.card-body a {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(88,8,144,1) 0%, rgba(113,8,142,1) 0%, rgba(72,0,255,1) 100%);
+    border: none;
+    
+
+
+}
+
