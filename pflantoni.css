@@ -273,3 +273,15 @@ iframe {
     font-weight: 700;
 }
 
+.presentation-contenu a {
+    color: white;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(88,8,144,1) 0%, rgba(113,8,142,1) 0%, rgba(72,0,255,1) 100%);
+    border: #FFFFFF;
+    font-size: 25px;
+
+}
+
+embed {
+    position: absolute;
+    left: 500px;
+}
