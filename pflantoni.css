@@ -253,7 +253,7 @@ iframe {
     color: black;
     background-color: white;
     max-width: 400px;
-    position: absolute;
+    position: relative;
     left: 500px;
    
 
@@ -261,7 +261,7 @@ iframe {
 
 .stage-contenu p {
     max-width: 600px;
-    position: absolute;
+    position: relative;
     left: 500px;
 
 
@@ -274,8 +274,8 @@ iframe {
 }
 
 .presentation-contenu a {
-    color: white;
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(88,8,144,1) 0%, rgba(113,8,142,1) 0%, rgba(72,0,255,1) 100%);
+    color: black;
+    background: white;
     border: #FFFFFF;
     font-size: 25px;
 
