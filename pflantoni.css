@@ -297,3 +297,29 @@ embed {
     position: absolute;
     left: 500px;
 }
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: black;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container h1 {
+    text-align: center;
+}
+
+.container h2 {
+    margin-top: 20px;
+}
+
+.container p {
+    margin-bottom: 20px;
+    line-height: 1.6;
+}
+
+.contenu a {
+    color: white;
+}
